@@ -107,6 +107,12 @@ Experienced in developing and deploying AI-powered systems, optimizing model per
       </a>
       <br>Core ML
     </td>
+    <td align="center" width="96">
+      <a href="https://docs.ultralytics.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="48" height="48" alt="YOLO" />
+      </a>
+      <br>YOLO
+    </td>
   </tr>
 <td align="center" width="96">
       <a href="https://opencv.org/" target="_blank">
