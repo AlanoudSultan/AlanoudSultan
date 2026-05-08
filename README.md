@@ -5,6 +5,7 @@ AI-focused Full-Stack Developer with a strong background in Computer Vision, Lar
 Experienced in developing and deploying AI-powered systems, optimizing model performance, building scalable applications, and integrating machine learning into real-world products.
 
 ---
+
 # 👩🏻‍💻 About Me
 - 🎓 Bachelor of Computer Science — Imam Mohammad Ibn Saud Islamic University (IMAMU)
 - 🍎 Apple Developer Academy Graduate
@@ -12,6 +13,7 @@ Experienced in developing and deploying AI-powered systems, optimizing model per
 - 📍 Riyadh, Saudi Arabia
 - 🌐 Portfolio: https://alanoudportfolio.framer.website
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanoud-abaalkhail)
+
 ---
 
 # 🌟 Areas of Interest
@@ -57,12 +59,6 @@ Experienced in developing and deploying AI-powered systems, optimizing model per
       <br>C++
     </td>
     <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
       <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48" height="48" alt="MATLAB" />
       </a>
@@ -73,7 +69,7 @@ Experienced in developing and deploying AI-powered systems, optimizing model per
 
 ---
 
-## AI & Deep Learning
+## AI & Machine Learning
 <table>
   <tr>
     <td align="center" width="96">
@@ -94,32 +90,51 @@ Experienced in developing and deploying AI-powered systems, optimizing model per
       </a>
       <br>Keras
     </td>
+    <td align="center" width="96">
+      <a href="https://scikit-learn.org/" target="_blank">
+        <img src="https://cdn.simpleicons.org/scikitlearn" width="48" height="48" alt="scikit-learn" />
+      </a>
+      <br>scikit-learn
+    </td>
+    <td align="center" width="96">
+      <a href="https://huggingface.co/" target="_blank">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
+      </a>
+      <br>Hugging Face
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.langchain.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg" width="48" height="48" alt="LangChain" />
+      </a>
+      <br>LangChain
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.apple.com/documentation/coreml" target="_blank">
+        <img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-128x128_2x.png" width="48" height="48" alt="Core ML" />
+      </a>
+      <br>Core ML
+    </td>
+  </tr>
+<td align="center" width="96">
+      <a href="https://opencv.org/" target="_blank">
+        <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" width="48" height="48" alt="OpenCV" />
+      </a>
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.nltk.org/" target="_blank">
+        <img src="https://img.shields.io/badge/NLTK-154f5b?style=for-the-badge" height="48" alt="NLTK" />
+      </a>
+      <br>NLTK
+    </td>
   </tr>
 </table>
 
 ---
 
-## Libraries & Tools
+## Data & Scientific Computing
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.docker.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="https://opencv.org/" target="_blank">
-        <img src="https://cdn.simpleicons.org/opencv" width="48" height="48" alt="OpenCV" />
-      </a>
-      <br>OpenCV
-    </td>
     <td align="center" width="96">
       <a href="https://numpy.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
@@ -133,16 +148,16 @@ Experienced in developing and deploying AI-powered systems, optimizing model per
       <br>Pandas
     </td>
     <td align="center" width="96">
-      <a href="https://scikit-learn.org/" target="_blank">
-        <img src="https://cdn.simpleicons.org/scikitlearn" width="48" height="48" alt="scikit-learn" />
+      <a href="https://jupyter.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
       </a>
-      <br>scikit-learn
+      <br>Jupyter
     </td>
     <td align="center" width="96">
-      <a href="https://www.nltk.org/" target="_blank">
-        <img src="https://cdn.simpleicons.org/python" width="48" height="48" alt="NLTK" />
+      <a href="https://wandb.ai/site" target="_blank">
+        <img src="https://cdn.simpleicons.org/weightsandbiases" width="48" height="48" alt="Weights & Biases" />
       </a>
-      <br>NLTK
+      <br>W&B
     </td>
   </tr>
 </table>
@@ -182,26 +197,46 @@ Experienced in developing and deploying AI-powered systems, optimizing model per
       </a>
       <br>Firebase
     </td>
+  </tr>
+</table>
+
+---
+
+## Databases
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
     <td align="center" width="96">
       <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
-    <td align="center" width="96">
-      <a href="https://developer.apple.com/xcode/swiftui/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="SwiftUI" />
-      </a>
-      <br>SwiftUI
-    </td>
   </tr>
 </table>
 
 ---
 
-## Platforms & Design Tools
+## Tools & Platforms
 <table>
   <tr>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
     <td align="center" width="96">
       <a href="https://developer.apple.com/xcode/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode" />
@@ -209,10 +244,16 @@ Experienced in developing and deploying AI-powered systems, optimizing model per
       <br>Xcode
     </td>
     <td align="center" width="96">
-      <a href="https://www.figma.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       </a>
-      <br>Figma
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <a href="https://netbeans.apache.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="48" height="48" alt="NetBeans" />
+      </a>
+      <br>NetBeans
     </td>
     <td align="center" width="96">
       <a href="https://www.postman.com/" target="_blank">
@@ -220,17 +261,13 @@ Experienced in developing and deploying AI-powered systems, optimizing model per
       </a>
       <br>Postman
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
-      <a href="https://jupyter.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
+      <a href="https://www.figma.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       </a>
-      <br>Jupyter
-    </td>
-    <td align="center" width="96">
-      <a href="https://wandb.ai/site" target="_blank">
-        <img src="https://cdn.simpleicons.org/weightsandbiases" width="48" height="48" alt="Weights & Biases" />
-      </a>
-      <br>W&B
+      <br>Figma
     </td>
     <td align="center" width="96">
       <a href="https://www.sketch.com/" target="_blank">
@@ -241,11 +278,11 @@ Experienced in developing and deploying AI-powered systems, optimizing model per
   </tr>
 </table>
 
-- 🕵🏻‍♀️ Exploring tools everyday 
+🕵🏻‍♀️ *Always exploring new tools and frameworks*
 
 ---
 
-# AI Research 🔬
+# 🔬 AI Research
 
 ## SPAF: Enhanced YOLOv26 for Multi-scale UAV Object Detection
 
@@ -340,7 +377,7 @@ Experienced in developing and deploying AI-powered systems, optimizing model per
 
 ---
 
-# 📜 Certifications  
+# 📜 Certifications
 
 - Apple Developer Academy Program — Apple Developer Academy — Tuwaiq (2025)
 - STEP — Standardized Test of English Proficiency — Score: 97
@@ -358,7 +395,7 @@ Experienced in developing and deploying AI-powered systems, optimizing model per
 
 ---
 
-# 📫 Contact 
+# 📫 Contact
 
 - 📧 Email: alanoudssabaalkhail@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/alanoud-abaalkhail
