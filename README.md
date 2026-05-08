@@ -89,13 +89,6 @@ Experienced in developing and deploying AI-powered systems, optimizing model per
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" />
       </a>
       <br>Keras
-    </td>
-    <td align="center" width="96">
-      <a href="https://scikit-learn.org/" target="_blank">
-        <img src="https://cdn.simpleicons.org/scikitlearn" width="48" height="48" alt="scikit-learn" />
-      </a>
-      <br>scikit-learn
-    </td>
     <td align="center" width="96">
       <a href="https://huggingface.co/" target="_blank">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
